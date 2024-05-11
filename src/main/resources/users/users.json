@@ -1,0 +1,23 @@
+[
+  {
+    "email": "decano@fusm.edu.co",
+    "password": "123456",
+    "name": "Decano usser NN",
+    "faculty": 1,
+    "role": 1
+  },
+  {
+    "email": "vicerrector@fusm.edu.co",
+    "password": "123456",
+    "name": "Vice rector usser NN",
+    "faculty": 1,
+    "role": 2
+  },
+  {
+    "email": "estudiante@fusm.edu.co",
+    "password": "123456",
+    "name": "Estudiante user NN",
+    "faculty": 1,
+    "role": 3
+  }
+]

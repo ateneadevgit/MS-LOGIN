@@ -1,0 +1,9 @@
+server:
+  port: 8018
+
+logging:
+  file:
+    name: /fusm-logs/login.log
+
+ms-login:
+  path: /api/v1/login
